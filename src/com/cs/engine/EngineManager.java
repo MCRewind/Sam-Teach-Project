@@ -1,5 +1,5 @@
 package com.cs.engine;
 
-public class Manager {
+public class EngineManager {
 
 }
